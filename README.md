@@ -4,21 +4,9 @@ Lineup is a Red application for creating soccer lineups.
 
 ## Specification
 
-* Loads/Saves Red files with the following convention:
+More information in the [wiki](https://github.com/rgchris/Lineup/wiki).
 
-```rebol
-Red [
-    Title: "Team Name"
-    Date: 21-Apr-2018
-]
-    
-Shirts: Gold Numbers: Blue
-    
-1 GK "Fred" 40x40
-2 LB "Dave" 10x60
-3 CB "Alice" 30x60
-...
-```
+* [Loads/Saves Red files](https://github.com/rgchris/Lineup/wiki/File-Format)
 
 * Has set formations, though players can be dragged
 
